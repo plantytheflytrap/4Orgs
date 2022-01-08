@@ -1,7 +1,7 @@
 import random
 from time import sleep
 
-height = 5
+height = 1
 width = 5
 a = {}
 
