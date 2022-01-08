@@ -1,8 +1,8 @@
 import random
 from time import sleep
 
-height = 200
-width = 100
+height = 5
+width = 5
 a = {}
 
 # Create box
